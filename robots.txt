@@ -1,0 +1,8 @@
+# robots.txt for kairosdesignandprint.com
+# Kairos Design and Print — Graphic Design & Large-Format Printing, Nigeria
+
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+Sitemap: https://kairosdesignandprint.com/sitemap.xml
